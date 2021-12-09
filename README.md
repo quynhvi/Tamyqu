@@ -15,14 +15,7 @@ Tanem Basaraner, Tra My Nguyen, Quynh Vi Trinh
 Software
 * Unity Version 2021.2.0f1
 
-## Screenshots and Videos!
-
-[Bildschirmfoto 2021-12-08 um 15 45 08](https://user-images.githubusercontent.com/75205438/145388062-127bb15c-fa69-4059-8745-0e0635889017.jpg)
-
-![Bildschirmfoto 2021-12-08 um 13 41 16](https://user-images.githubusercontent.com/75205438/145388121-db196140-75c6-473a-a348-e751d08df40f.png)
-<img width="1792" alt="Bildschirmfoto 2021-12-08 um 13 49 44" src="https://user-images.githubusercontent.com/75205438/145388157-14d34416-d88a-402f-a520-7e47d981ea3e.png">
-<img width="1792" alt="Bildschirmfoto 2021-12-08 um 13 50 58" src="https://user-images.githubusercontent.com/75205438/145388192-38aec4f2-95e3-4546-bf2a-c44417107476.png">
-
+## Screenshots and Videos
 
 https://user-images.githubusercontent.com/75205438/145386051-eeea32ee-62d4-42c0-a207-83649dfe9cf7.MOV
 
