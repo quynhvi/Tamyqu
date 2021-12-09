@@ -2,15 +2,20 @@
 
 # Game: TAMYQU
 
-## HauptMechanik 
-laufen, springen, ducken/kriechen, schießen
+## Main Mechanics 
+run, jump, crouch, shoot
 
 ## Genre & Art Style
 2D Sidescroller, Platformer
 
-## Mitarbeiter
+## Team
 Tanem Basaraner, Tra My Nguyen, Quynh Vi Trinh
 
 ## Built With
 Software
 * Unity Version 2021.2.0f1
+
+## Screenshots and Videos
+
+https://user-images.githubusercontent.com/75205438/145386051-eeea32ee-62d4-42c0-a207-83649dfe9cf7.MOV
+
