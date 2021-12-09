@@ -19,10 +19,7 @@ Software
 
 https://user-images.githubusercontent.com/75205438/145386051-eeea32ee-62d4-42c0-a207-83649dfe9cf7.MOV
 
-
-
 https://user-images.githubusercontent.com/75205438/145386185-50358322-c7fa-40d4-86d3-0adcab527010.MOV
-
 
 https://user-images.githubusercontent.com/75205438/145386459-b23f645e-2ebf-4012-9a41-bf2ee6ee5275.MOV
 
